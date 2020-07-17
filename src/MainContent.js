@@ -29,7 +29,7 @@ export default function MainContent() {
       flexGridColumnGap="scale800"
       flexGridRowGap="scale800"
       margin="auto"
-      width="60%"
+      maxWidth="800px"
     >
       <FlexGridItem justifyContent="center" display="flex">
         <img src={NAPlogo} alt="This is not a product"/>
