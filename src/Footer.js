@@ -20,7 +20,7 @@ export default function Footer() {
           >
           <FlexGridItem {...itemProps}>
             <Paragraph3>         
-               <StyledLink href="https://github.com/richardbatstone">GitHub</StyledLink>
+               <StyledLink href="https://github.com/richardbatstone/template-legal-visuals">GitHub</StyledLink>
           </Paragraph3>
           </FlexGridItem>
           <FlexGridItem {...itemProps}>
